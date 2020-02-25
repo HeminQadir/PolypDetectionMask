@@ -4,8 +4,4 @@ You need to have orginal images and Gussain graund-truth masks in order to train
 This code will be updated soon with more details 
 
 # Training data structure 
-------> data 
-             ------> train
-                          ------> polyp 
-                                        ------> images 
-                                        ------> masks 
+------> data ------> train ------> polyp ------> images, masks 
